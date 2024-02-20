@@ -1,0 +1,6 @@
+# Project exclude paths
+
+.env
+
+# Project exclude paths
+/target/
