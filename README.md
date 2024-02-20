@@ -1,34 +1,5 @@
-# entertainer-jda
-This is a smaller scale project used to mess around with Java Discord API, feel free to download and modify as you wish.
-
-## 🚀 | Features
-Currently contains:
-- 1 Minigame similar to Sokoban with multiplayer, cross-server functionallity.
-    - ( Insp. [PolyMars](https://www.youtube.com/@PolyMars) )
-
-## 🔨 | Usage
-
-1. Create a file in `/entertainer-jda/` called `.env`, this file will contain two things: `VERSION` & `TOKEN`
-
-2. Go to [discord's developer portal](https://discord.com/developers/applications) and create a new application, then make it a bot.
-
-3. Get the bot token and input it into the `.env` file as shown below.
-```
-VERSION=STABLE-1.0
-TOKEN=INSERT_TOKEN_HERE
-```
-
-> Please note the following:
-> This is a rudamentary instructional list, if there's any feedback you'd like to give feel free to.
-> This project is very much still in early development.
-
-## 📜 | Credits
-
-Developed solo by [sirJavaDrinker (AKA: iWuzReaper)](https://iwuzreaper.com/)
-
-Using the [Java Discord API](https://github.com/discord-jda/JDA)
-
-Inspiration from [PolyMars](https://www.youtube.com/@PolyMars)
+# Example Bot
+¯\_(ツ)_/¯
 
 
 ### 🛑 | License
